@@ -1,6 +1,6 @@
-# Aria AI Customer Support Chatbot System
+# AI Customer Support Chatbot System
 
-Aria is a full-stack support operations demo for real-time customer chat, intent classification, confidence-scored responses, escalation workflows, operator takeover, and analytics. It is intentionally production-shaped but student-friendly: the FastAPI backend works immediately with an in-memory demo store, and the same service boundaries are ready for MongoDB, HuggingFace, and Groq.
+It's a full-stack support operations demo for real-time customer chat, intent classification, confidence-scored responses, escalation workflows, operator takeover, and analytics. It is intentionally production-shaped but student-friendly: the FastAPI backend works immediately with an in-memory demo store, and the same service boundaries are ready for MongoDB, HuggingFace, and Groq.
 
 ## Stack
 

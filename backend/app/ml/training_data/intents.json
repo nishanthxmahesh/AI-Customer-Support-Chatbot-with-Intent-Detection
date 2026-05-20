@@ -1,0 +1,11 @@
+{
+  "note": "Seed script can expand these phrase families to 200+ examples per intent for coursework demos.",
+  "examples": [
+    {"intent": "order_tracking", "text": "Where is my order?"},
+    {"intent": "billing_inquiry", "text": "Why was I charged twice?"},
+    {"intent": "refund_request", "text": "I want my money back"},
+    {"intent": "complaint", "text": "This is unacceptable"},
+    {"intent": "technical_support", "text": "The app keeps crashing"}
+  ]
+}
+
